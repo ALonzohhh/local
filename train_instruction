@@ -1,0 +1,21 @@
+python models\lstm_multiclass\lstm_multiclass_with_validation.py
+python models\lstm_multiclass\test_lstm_model.py
+
+
+python models\naive_bayes_multiclass\naive_bayes_multiclass_with_validation.py
+python models\naive_bayes_multiclass\test_naive_bayes_model.py
+
+python models\randomforest_multiclass\randomforest_multiclass_with_validation.py
+python models\randomforest_multiclass\test_randomforest_model.py
+
+python models\softmax_multiclass\softmax_multiclass_with_validation.py
+python models\softmax_multiclass\test_softmax_model.py
+
+python models\svm_multiclass\svm_multiclass_with_validation.py
+python models\svm_multiclass\test_svm_model.py
+
+python models\transformer_multiclass\transformer_multiclass_with_validation.py
+python models\transformer_multiclass\test_transformer_model.py
+
+
+
